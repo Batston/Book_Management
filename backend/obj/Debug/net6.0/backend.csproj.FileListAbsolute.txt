@@ -85,3 +85,4 @@ C:\Users\vumin\Documents\Code\BookStore\backend\obj\Debug\net6.0\refint\backend.
 C:\Users\vumin\Documents\Code\BookStore\backend\obj\Debug\net6.0\backend.pdb
 C:\Users\vumin\Documents\Code\BookStore\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
 C:\Users\vumin\Documents\Code\BookStore\backend\obj\Debug\net6.0\ref\backend.dll
+C:\Users\vumin\Documents\Code\BookStore\backend\obj\Debug\net6.0\backend.sourcelink.json
